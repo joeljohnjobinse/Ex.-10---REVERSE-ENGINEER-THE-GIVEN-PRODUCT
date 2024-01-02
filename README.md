@@ -34,10 +34,13 @@
 
 ### Output:
 AIM: To reverse engineering the product and prototyping the same in 3D printer.
+<br/>
 REQUIREMENTS:
+<br/>
 ●	CURA 4.0 Software ● Autodesk Fusion 360 ● System - Windows 7 or higher, 1 GB RAM.
-
+<br/>
 PROCEDURE:
+<br/>
 Step 1.:- Duplicate all the geometric features for the given object using vernier caliper, measuring tapes or any instruments provided
 <br/>
 Step 2.:- Design the geometric features in 3D using auto desk fusion 360. Step 3.:- Save the file and export as .stl
